@@ -1,6 +1,5 @@
 package copy.main;
 
-import copy.machine.CopyMachine;
 import copy.machine.CopyMachineWithoutInterfaces;
 import copy.reader.Reader;
 import copy.reader.impl.KeyboardReader;
